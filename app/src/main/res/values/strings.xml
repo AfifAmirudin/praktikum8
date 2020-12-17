@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="check_sms_permission">check sms permision</string>
+    <string name="coming_from">Dari</string>
+    <string name="this_play">WOW! Ada Pesan</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">incoming message</string>
+    <string name="warning_message">Warning Message</string>
+</resources>
